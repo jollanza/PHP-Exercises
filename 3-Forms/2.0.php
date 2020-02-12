@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Simple Form with PHP Response</title>
+  <title>Interactive Form with If-Else Statement</title>
 </head>
 <body>
 <pre>
